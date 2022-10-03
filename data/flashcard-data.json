@@ -1,12 +1,48 @@
 [
     {
-        "question": "Explain closures",
-        "answer": "A closure is an inner function that has access to an outer function's variables as well as global variabled. The inner function also has access to the outer functions parameters.  A closure is created by including a function inside another function.",
-        "cat": "JS"
+    "question": "What is Polymorphism?",
+    "answer": "Polymorphism is one of the four key principles of OOP. Polymorphism is the ability for objects to respond to the same message in different ways, depending on their type."
     },
     {
-        "question": "What is the difference between var, let, and const?",
-        "answer": "Var is function scoped and let is block scoped. JS treats all variables as if they are declared (but not assigned!) at the top of a functional scope no matter where they are actually declared. This is variable hoisting. ES6 introduced block-level scoping which gives you more control over a variable's lifecycle. Variables declared using const cannot be re-assigned and therefore must be assigned when they are declared.",
-        "cat": "JS"
-    }
+    "question": "What is Dynamic Polymorphism?",
+    "answer": "Dynamic polymorphism involves method overriding. Method overriding is when a derived class' method overrides the base class method. Overriding methods must have the same number and type of paramaters as the virtual or abstract method being overriden. It is also known as runtime polymorphism as at runtime the method that is called is determined by the object type the method is being called on."
+    },
+    {
+    "question": "What is Static Polymorphism",
+    "answer": "static polymoprhism is method overloading. This is when multiple methods have the same name, but different sets of parameteres. Static polymoprhism is also known as Compile Time polymporphism, as the compiler checks the paramaters of each method to determine which one to call."
+    },
+     {
+    "question": "What is Encapsulation?",
+    "answer": "Encapsulation is one of the four main principles of OOP. Encapsulation is the bundling of data and the methods that act upon that data. Encapsulation also refers to information hiding. Which is the act of hiding implementation inforation use get and set. Encapsulation is useful as it allows for: easily reusing and updating code, flexibility of inforamtion hiding (get/set)/(read/write only)."
+    },
+     {
+    "question": "What is Inheritance ",
+    "answer": "Inheritance is one of the four main principles of OOP. Inheritance is the ability for one class to gain the properties of another class. This allows the ability to create a base class that holds generic data and methods that all derived classes have in common. This allows for less repeated code and easier abilitiy to update code in the future."
+    },
+     {
+    "question": "What is Abstraction",
+    "answer": "Abstraction is one of the four main principles of OOP. Abstraction is the concept of displaying only necessary information to the user and hiding everything else. The user doesn't need to know how the the program is implemented they just need to be able to utilise its functionality."
+    },
+     {
+    "question": "What is the Difference Between Abstraction and Encapsulation?",
+    "answer": "Encapsulation is the method of hiding data in a single unit (class) along with get set methods to protect that data. Abstraction is selectivley choosing the information that you want to display to the user."
+    },
+     {
+    "question": "Difference between Value Types and Reference Types",
+    "answer": "Value types hold data within their own memory allocation generally held in the stack. A reference type contains a pointer to another memory location in the heap. Value types include: int, double, float, char etc.
+Reference types include: Objects, strings, arrays. For a full list and more info click <a href=\"https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/built-in-types\">here</a>"
+    },
+     {
+    "question": "Difference Between Method Overlading and Overriding",
+    "answer": "method overloading refers to static polymorphism, where a method has the same name, but different parameters. 
+Method overloading refers to dynamic polymorphism, where a derived class\' method overrides a base class' virtual or abstract method."
+    },
+     {
+    "question": "Difference between Abstract Class and Interface",
+    "answer": "A class can implement any number of interfaces, but a derived class can only use one abstract class. 
+Abstract class can use a constructor, an interface cannot.
+An abstract class can have abstract and non abstract methods, interfaces can only have abstract.
+An abstract class is describing what an object is, an interface is like a contract describing what the object can or must do."
+    },
+    
 ]
