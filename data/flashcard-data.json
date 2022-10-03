@@ -29,7 +29,7 @@
     },
      {
     "question": "Difference between Value Types and Reference Types",
-    "answer": "Value types hold data within their own memory allocation generally held in the stack. A reference type contains a pointer to another memory location in the heap. Value types include: int, double, float, char etc.Reference types include: Objects, strings, arrays. For a full list and more info click <a href=\"https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/built-in-types\">here</a>"
+    "answer": "Value types hold data within their own memory allocation generally held in the stack. A reference type contains a pointer to another memory location in the heap. Value types include: int, double, float, char etc.Reference types include: Objects, strings, arrays. For a full list and more info click <a href=\"https:\/\/learn.microsoft.com\/en-us\/dotnet\/csharp\/language-reference\/builtin-types\/built-in-types\\">here<\/a>"
     },
      {
     "question": "Difference Between Method Overlading and Overriding",
