@@ -33,7 +33,7 @@
     },
      {
     "question": "Difference Between Method Overlading and Overriding",
-    "answer": "method overloading refers to static polymorphism, where a method has the same name, but different parameters. \nMethod overloading refers to dynamic polymorphism, where a derived class\' method overrides a base class' virtual or abstract method."
+    "answer": "method overloading refers to static polymorphism, where a method has the same name, but different parameters. \nMethod overloading refers to dynamic polymorphism, where a derived class' method overrides a base class' virtual or abstract method."
     },
      {
     "question": "Difference between Abstract Class and Interface",
