@@ -29,20 +29,15 @@
     },
      {
     "question": "Difference between Value Types and Reference Types",
-    "answer": "Value types hold data within their own memory allocation generally held in the stack. A reference type contains a pointer to another memory location in the heap. Value types include: int, double, float, char etc.
-Reference types include: Objects, strings, arrays. For a full list and more info click <a href=\"https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/built-in-types\">here</a>"
+    "answer": "Value types hold data within their own memory allocation generally held in the stack. A reference type contains a pointer to another memory location in the heap. Value types include: int, double, float, char etc.Reference types include: Objects, strings, arrays. For a full list and more info click <a href=\"https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/built-in-types\">here</a>"
     },
      {
     "question": "Difference Between Method Overlading and Overriding",
-    "answer": "method overloading refers to static polymorphism, where a method has the same name, but different parameters. 
-Method overloading refers to dynamic polymorphism, where a derived class\' method overrides a base class' virtual or abstract method."
+    "answer": "method overloading refers to static polymorphism, where a method has the same name, but different parameters. \nMethod overloading refers to dynamic polymorphism, where a derived class\' method overrides a base class' virtual or abstract method."
     },
      {
     "question": "Difference between Abstract Class and Interface",
-    "answer": "A class can implement any number of interfaces, but a derived class can only use one abstract class. 
-Abstract class can use a constructor, an interface cannot.
-An abstract class can have abstract and non abstract methods, interfaces can only have abstract.
-An abstract class is describing what an object is, an interface is like a contract describing what the object can or must do."
+    "answer": "A class can implement any number of interfaces, but a derived class can only use one abstract class. \nAbstract class can use a constructor, an interface cannot.\nAn abstract class can have abstract and non abstract methods, interfaces can only have abstract.\nAn abstract class is describing what an object is, an interface is like a contract describing what the object can or must do."
     },
     
 ]
