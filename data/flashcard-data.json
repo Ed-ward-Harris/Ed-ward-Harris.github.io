@@ -38,6 +38,5 @@
      {
     "question": "Difference between Abstract Class and Interface",
     "answer": "A class can implement any number of interfaces, but a derived class can only use one abstract class. \nAbstract class can use a constructor, an interface cannot.\nAn abstract class can have abstract and non abstract methods, interfaces can only have abstract.\nAn abstract class is describing what an object is, an interface is like a contract describing what the object can or must do."
-    },
-    
+    }
 ]
