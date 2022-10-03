@@ -13,7 +13,7 @@
     },
      {
     "question": "What is Encapsulation?",
-    "answer": "Encapsulation is one of the four main principles of OOP. Encapsulation is the bundling of data and the methods that act upon that data. Encapsulation also refers to information hiding. Which is the act of hiding implementation inforation use get and set. Encapsulation is useful as it allows for: easily reusing and updating code, flexibility of inforamtion hiding (get/set)/(read/write only)."
+    "answer": "Encapsulation is one of the four main principles of OOP. Encapsulation is the bundling of data and the methods that act upon that data. Encapsulation also refers to information hiding. Which is the act of hiding implementation inforation use get and set. Encapsulation is useful as it allows for: easily reusing and updating code, flexibility of inforamtion hiding (get\/set)\/(read/write only)."
     },
      {
     "question": "What is Inheritance ",
