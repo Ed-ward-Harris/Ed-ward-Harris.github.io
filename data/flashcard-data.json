@@ -1,7 +1,7 @@
 [
     {
         "question": "Explain closures",
-        "answer": "A closure is an inner function that has access to an outer function's variables as well as global variabledsddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddds. The inner function also has access to the outer functions parameters.  A closure is created by including a function inside another function.",
+        "answer": "A closure is an inner function that has access to an outer function's variables as well as global variabled. The inner function also has access to the outer functions parameters.  A closure is created by including a function inside another function.",
         "cat": "JS"
     },
     {
